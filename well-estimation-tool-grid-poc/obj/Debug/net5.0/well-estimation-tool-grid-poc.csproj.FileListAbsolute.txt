@@ -1,0 +1,7 @@
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.csproj.AssemblyReference.cache
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.AssemblyInfoInputs.cache
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.AssemblyInfo.cs
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.csproj.CoreCompileInputs.cache
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arsing5\Desktop\Test\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\well-estimation-tool-grid-poc\obj\Debug\net5.0\well-estimation-tool-grid-poc.MvcApplicationPartsAssemblyInfo.cache
